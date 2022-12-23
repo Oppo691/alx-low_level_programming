@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strnpy - function that copies a string, including the
+ * _strncpy - function that copies a string, including the
  * terminating null byte, using at most an inputed
  * number of bytes
  * if the length of the source string is less than the
