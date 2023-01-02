@@ -1,1 +1,1 @@
-echo 'Pointers, Arrays and Strings'
+pointersarraystrings
