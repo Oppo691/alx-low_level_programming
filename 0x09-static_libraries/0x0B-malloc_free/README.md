@@ -1,1 +1,1 @@
-echo 'Malloc, free' > README.md
+echo 'malloc, free' > README.md
